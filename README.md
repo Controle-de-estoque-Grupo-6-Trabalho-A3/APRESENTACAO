@@ -1,2 +1,2 @@
-# APRESENTA-O
+# APRESENTAÇÃO
 Apresentação final do trabalho
