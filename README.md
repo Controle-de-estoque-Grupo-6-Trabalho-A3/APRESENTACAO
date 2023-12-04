@@ -72,6 +72,11 @@ No cenário do varejo, a gestão eficiente do estoque é um elemento crucial par
 
 <h2>Exemplos de Uso com o Código em Funcionamento:</h2>
 <!-- COLOCAR PRINT DO CÓDIGO RODANDO AQUI -->
+<li>
+    <br>Este é um exemplo do arquivo "banco.db" gerado a partir do models.py, com duas tabelas e as tintas adicionadas pelo main.py.
+  </li>
+
+![image](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/132380444/46d62569-173d-40da-bd66-00112903e9d5)
 
 
 # Conclusão
