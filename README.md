@@ -34,30 +34,39 @@ No cenário do varejo, a gestão eficiente do estoque é um elemento crucial par
 
 <h2>Desafios e Soluções</h2>
 <ul>
-  <li>Gestão de Transações e estoque Atualizado:
-<br>Desafio: Garantir que as transações de compra e venda atualizem o estoque de maneira consistente.
-<br> Solução: Implementar um mecanismo robusto para garantir a atomicidade das transações. Por exemplo, utilizando transações em banco de dados (utlizamos o SQLite).</li
- <ul>                                                                                                                                                                      
-<li>Segurança na Manipulação de Dados Sensíveis:
-<br>Desafio: Lidar com informações sensíveis, como dados dos clientes (CPF, endereço, etc.), de forma segura e protegida.
-<br> Solução: (Não implementamos, pode ser uma melhoria futura) Implementar práticas de segurança, como criptografia de dados protegidos, restrições de acesso baseadas em funções (RBAC), e validação rigorosa de entrada de dados para prevenir possíveis vulnerabilidades.</li>
+  <li>
+    <strong>Gestão de Transações e Estoque Atualizado:</strong>
+    <br>Desafio: Garantir que as transações de compra e venda atualizem o estoque de maneira consistente.
+    <br>Solução: Implementar um mecanismo robusto para garantir a atomicidade das transações, por exemplo, utilizando transações em banco de dados (usamos o SQLite).
+  </li>
+  <li>
+    <strong>Segurança na Manipulação de Dados Sensíveis:</strong>
+    <br>Desafio: Lidar com informações sensíveis, como dados dos clientes (CPF, endereço, etc.), de forma segura e protegida.
+    <br>Solução: (Não implementamos, pode ser uma melhoria futura) Implementar práticas de segurança, como criptografia de dados protegidos, restrições de acesso baseadas em funções (RBAC) e validação rigorosa de entrada de dados para prevenir possíveis vulnerabilidades.
+  </li>
+</ul>
 
-<h2>Fase de testes</h2>
+<h2>Fase de Testes</h2>
 <ul>
-  <li>Testes unitários
-<br>Utilizamos o framework pytest para realizarmos os testes do programa.</li
- <ul>
-  ![image](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/143462705/32dd81ee-1ed9-444a-8b3b-42884dd11c12)
-  ![image](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/143462705/827bb0be-4ef1-4ef9-a977-5af4ddc9e179)
-  ![image](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/143462705/6fbec333-dc86-4cd2-9cf2-00c898b52061)
-   
-<h2>Resultado positivo de todos os testes unitários realizados</h2> 
+  <li>
+    <strong>Testes Unitários:</strong>
+    <br>Utilizamos o framework pytest para realizarmos os testes do programa.
+  </li>
+</ul>
+
+![image](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/143462705/32dd81ee-1ed9-444a-8b3b-42884dd11c12)
+![image](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/143462705/827bb0be-4ef1-4ef9-a977-5af4ddc9e179)
+![image](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/143462705/6fbec333-dc86-4cd2-9cf2-00c898b52061)
+
+<h2>Resultado Positivo de Todos os Testes Unitários Realizados</h2> 
 ![image](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/143462705/8417e9ba-238f-4c83-9ad2-bf3783b8f6de)
 
-<h2>Resultado dos testes de métricas e de covertura</h2>
-![PRINT Metricas Crud](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/143462705/5087f64c-4333-4d5d-8913-d66ee5f39db3)
+<h2>Resultado dos Testes de Métricas e de Cobertura</h2>
+![PRINT Métricas Crud](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/143462705/5087f64c-4333-4d5d-8913-d66ee5f39db3)
 
-<h2>Exemplos de uso com o código em funcionamento:</h2> (COLOCAR PRINT DO CÓDIGO RODANDO AQUI)
+<h2>Exemplos de Uso com o Código em Funcionamento:</h2>
+<!-- COLOCAR PRINT DO CÓDIGO RODANDO AQUI -->
+
 
 # Conclusão
 Em conclusão, este projeto não foi apenas comprovado em um sistema funcional para gerenciamento de estoque de tintas, mas também proporcionou uma experiência de aprendizado aprimorada. As lições aprendidas ao superar desafios e aprimorar habilidades técnicas são inestimáveis ​​para o desenvolvimento contínuo da equipe. Este sistema representa não apenas uma solução prática para a gestão de depósitos de tintas, mas também um marco em nossa jornada de crescimento e excelência no desenvolvimento de software.
