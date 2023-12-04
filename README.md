@@ -17,7 +17,9 @@ No cenário do varejo, a gestão eficiente do estoque é um elemento crucial par
 
 <h2>Desenvolvimento do projeto</h2>
 <ul>
+  
   <img src="APRESENTACAO/python.png" alt="Logo Python">
+  
   <li>Linguagem de programação: PYTHON</li>
   <li>Programação orientada a objetos</li>
   <li>Principais classes:</li>
