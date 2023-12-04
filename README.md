@@ -18,8 +18,8 @@ No cenário do varejo, a gestão eficiente do estoque é um elemento crucial par
 <h2>Desenvolvimento do projeto</h2>
 <ul>
   
-  <img src="APRESENTACAO/python.png" alt="Logo Python">
-  
+![image](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/132380444/c3c75900-25bc-4079-a334-44c898ab04a1)
+
   <li>Linguagem de programação: PYTHON</li>
   <li>Programação orientada a objetos</li>
   <li>Principais classes:</li>
