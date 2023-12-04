@@ -59,9 +59,11 @@ No cenário do varejo, a gestão eficiente do estoque é um elemento crucial par
 ![image](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/143462705/6fbec333-dc86-4cd2-9cf2-00c898b52061)
 
 <h2>Resultado Positivo de Todos os Testes Unitários Realizados</h2> 
-![image](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/143462705/8417e9ba-238f-4c83-9ad2-bf3783b8f6de)
+
+![image](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/132380444/f966669c-3397-4cb5-be41-ef7a4a61e127)
 
 <h2>Resultado dos Testes de Métricas e de Cobertura</h2>
+
 ![PRINT Métricas Crud](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/143462705/5087f64c-4333-4d5d-8913-d66ee5f39db3)
 
 <h2>Exemplos de Uso com o Código em Funcionamento:</h2>
