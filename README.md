@@ -20,7 +20,7 @@ No cenário do varejo, a gestão eficiente do estoque é um elemento crucial par
   
 ![image](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/132380444/c3c75900-25bc-4079-a334-44c898ab04a1)
 ![image](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/132380444/5654a587-0c60-441b-a2c6-81e7778359d2)
-
+![image](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/APRESENTACAO/assets/132380444/7ce22f98-27da-4871-bd2a-9979449be7f1)
 
   <li>Linguagem de programação: PYTHON</li>
   <li>Programação orientada a objetos</li>
